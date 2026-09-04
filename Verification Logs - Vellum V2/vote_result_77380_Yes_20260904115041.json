@@ -1,0 +1,602 @@
+[
+    {
+        "nickname": "Ticoworld",
+        "userid": 53558,
+        "total weight(metaforo)": 125459,
+        "total weight(on chain, floored)": 125459,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2dvzq6ecle83hlrlpgjpe2j0x2uq8t8mgqllfxy",
+        "address weight(floored)": 125459,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2dvzq6ecle83hlrlpgjpe2j0x2uq8t8mgqllfxy"
+    },
+    {
+        "nickname": "joshyates",
+        "userid": 51044,
+        "total weight(metaforo)": 500000,
+        "total weight(on chain, floored)": 500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq26k6c0as36j2fqacvzjrmdv30wcpz970snv6u2h",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq26k6c0as36j2fqacvzjrmdv30wcpz970snv6u2h"
+    },
+    {
+        "nickname": "joshyates",
+        "userid": 51044,
+        "total weight(metaforo)": 500000,
+        "total weight(on chain, floored)": 500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd9n32yyujn470twgthr3rucrmy7xf4nxg57nqxs",
+        "address weight(floored)": 500000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd9n32yyujn470twgthr3rucrmy7xf4nxg57nqxs"
+    },
+    {
+        "nickname": "Byakuya",
+        "userid": 34079,
+        "total weight(metaforo)": 32970632,
+        "total weight(on chain, floored)": 32970632,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvnw3s2htazkfer477f2pyndt3ujwvfsmqejwlvp",
+        "address weight(floored)": 1188788,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvnw3s2htazkfer477f2pyndt3ujwvfsmqejwlvp"
+    },
+    {
+        "nickname": "Byakuya",
+        "userid": 34079,
+        "total weight(metaforo)": 32970632,
+        "total weight(on chain, floored)": 32970632,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdgmvulkjtwrs2xdwn2ezf6t37hrmea2qq54jz6e",
+        "address weight(floored)": 1309005,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdgmvulkjtwrs2xdwn2ezf6t37hrmea2qq54jz6e"
+    },
+    {
+        "nickname": "Byakuya",
+        "userid": 34079,
+        "total weight(metaforo)": 32970632,
+        "total weight(on chain, floored)": 32970632,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgsgnwjejkkdz3wxwqf6p99yx287l8largm76z5n",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgsgnwjejkkdz3wxwqf6p99yx287l8largm76z5n"
+    },
+    {
+        "nickname": "Byakuya",
+        "userid": 34079,
+        "total weight(metaforo)": 32970632,
+        "total weight(on chain, floored)": 32970632,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgp2s9z734rgf9rz8zxkl5l58z8yvaptrsphhs6k",
+        "address weight(floored)": 472839,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgp2s9z734rgf9rz8zxkl5l58z8yvaptrsphhs6k"
+    },
+    {
+        "nickname": "Byakuya",
+        "userid": 34079,
+        "total weight(metaforo)": 32970632,
+        "total weight(on chain, floored)": 32970632,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg79hh53jfvvnddfqsvf6rphuhchm74e8gagvssy",
+        "address weight(floored)": 30000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqg79hh53jfvvnddfqsvf6rphuhchm74e8gagvssy"
+    },
+    {
+        "nickname": "juanlex",
+        "userid": 50177,
+        "total weight(metaforo)": 17900000,
+        "total weight(on chain, floored)": 17900000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw6r5r9lvp8tckd0f62htdl73vht7flsjq7c6fv9",
+        "address weight(floored)": 17900000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw6r5r9lvp8tckd0f62htdl73vht7flsjq7c6fv9"
+    },
+    {
+        "nickname": "juanlex",
+        "userid": 50177,
+        "total weight(metaforo)": 17900000,
+        "total weight(on chain, floored)": 17900000,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqfde8rmtuy4cx5m4rxnvl555deazcd47rgurwxpu",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqfde8rmtuy4cx5m4rxnvl555deazcd47rgurwxpu"
+    },
+    {
+        "nickname": "Anihdev",
+        "userid": 53501,
+        "total weight(metaforo)": 209935,
+        "total weight(on chain, floored)": 209935,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdq30u7xntrg8v5u6r9t2auntk3w73x93s9v07fu",
+        "address weight(floored)": 209935,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdq30u7xntrg8v5u6r9t2auntk3w73x93s9v07fu"
+    },
+    {
+        "nickname": "Anihdev",
+        "userid": 53501,
+        "total weight(metaforo)": 209935,
+        "total weight(on chain, floored)": 209935,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0ewvqv9qgqmt49u06h2t3d0uqjdzktqxgpv3ukt",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0ewvqv9qgqmt49u06h2t3d0uqjdzktqxgpv3ukt"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtf5ycrtqjxnlpjeg339m8awxk84e4pdacuzy9qw",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtf5ycrtqjxnlpjeg339m8awxk84e4pdacuzy9qw"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2wnjshh9uvzrcjsz6efqal63473c0hm7s9xa6r9",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2wnjshh9uvzrcjsz6efqal63473c0hm7s9xa6r9"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvvp902m75qjy7mdsnm0vkfeu3jpth05vsdu02uu",
+        "address weight(floored)": 5000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvvp902m75qjy7mdsnm0vkfeu3jpth05vsdu02uu"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2rd8ker2fa7zk0m0hcgmp9az2g8zjp9ssxusl22",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2rd8ker2fa7zk0m0hcgmp9az2g8zjp9ssxusl22"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0hymlw5u4pwedhue56s94lsxaddtzyhugrwwhly",
+        "address weight(floored)": 5000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0hymlw5u4pwedhue56s94lsxaddtzyhugrwwhly"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtwen4nt8gkaste9zaxtupwfk0cvxsvm2qadc5qt",
+        "address weight(floored)": 5000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtwen4nt8gkaste9zaxtupwfk0cvxsvm2qadc5qt"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtvvlwzemapea3k3ssnk4vsg874pyw85jqnrq46h",
+        "address weight(floored)": 3000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtvvlwzemapea3k3ssnk4vsg874pyw85jqnrq46h"
+    },
+    {
+        "nickname": "Ophiuchus",
+        "userid": 50987,
+        "total weight(metaforo)": 19500000,
+        "total weight(on chain, floored)": 19500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqt00ucq7cwlw53gdz6tnyz7kl9rh2eu25cfcdarr",
+        "address weight(floored)": 1500000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqt00ucq7cwlw53gdz6tnyz7kl9rh2eu25cfcdarr"
+    },
+    {
+        "nickname": "Pires",
+        "userid": 51020,
+        "total weight(metaforo)": 9500000,
+        "total weight(on chain, floored)": 9500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw62v6ppxujq932epwdys54mpt22mgga5szw257l",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw62v6ppxujq932epwdys54mpt22mgga5szw257l"
+    },
+    {
+        "nickname": "Pires",
+        "userid": 51020,
+        "total weight(metaforo)": 9500000,
+        "total weight(on chain, floored)": 9500000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdnvsjyahhu4hnqmv5aqy06jk7p289qcsck64eed",
+        "address weight(floored)": 9500000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdnvsjyahhu4hnqmv5aqy06jk7p289qcsck64eed"
+    },
+    {
+        "nickname": "Pires",
+        "userid": 51020,
+        "total weight(metaforo)": 9500000,
+        "total weight(on chain, floored)": 9500000,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqwueumm44ep79d8jtvz2aefz9sjxyf3zncu5yl0r",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqwueumm44ep79d8jtvz2aefz9sjxyf3zncu5yl0r"
+    },
+    {
+        "nickname": "xiaopingguo",
+        "userid": 37655,
+        "total weight(metaforo)": 30000120,
+        "total weight(on chain, floored)": 30000120,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf3098pfuz7m2mrkwqyfzmt7px4td8z2rs73ka5q",
+        "address weight(floored)": 120,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf3098pfuz7m2mrkwqyfzmt7px4td8z2rs73ka5q"
+    },
+    {
+        "nickname": "xiaopingguo",
+        "userid": 37655,
+        "total weight(metaforo)": 30000120,
+        "total weight(on chain, floored)": 30000120,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtnr70zt0qhx6klg7hn9ygcqnpam9250jgllqzur",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqtnr70zt0qhx6klg7hn9ygcqnpam9250jgllqzur"
+    },
+    {
+        "nickname": "xiaopingguo",
+        "userid": 37655,
+        "total weight(metaforo)": 30000120,
+        "total weight(on chain, floored)": 30000120,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq02znl795z64vfshjy68cvgczasvrh8tnsfyfljn",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq02znl795z64vfshjy68cvgczasvrh8tnsfyfljn"
+    },
+    {
+        "nickname": "xiaopingguo",
+        "userid": 37655,
+        "total weight(metaforo)": 30000120,
+        "total weight(on chain, floored)": 30000120,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfqcw4guc22j8pfqys2zfpc2fsax0c9fdcjpypt9",
+        "address weight(floored)": 3000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfqcw4guc22j8pfqys2zfpc2fsax0c9fdcjpypt9"
+    },
+    {
+        "nickname": "xiaopingguo",
+        "userid": 37655,
+        "total weight(metaforo)": 30000120,
+        "total weight(on chain, floored)": 30000120,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdmg5rxd9kq87zh7jcdrs4m29ktkvj2hxs5d2wuq",
+        "address weight(floored)": 27000000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdmg5rxd9kq87zh7jcdrs4m29ktkvj2hxs5d2wuq"
+    },
+    {
+        "nickname": "Juliann",
+        "userid": 50196,
+        "total weight(metaforo)": 19933381,
+        "total weight(on chain, floored)": 19933381,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwr985zpl8lw9k6eqaaf526qweclgh5z0q8k3ghg",
+        "address weight(floored)": 9068631,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwr985zpl8lw9k6eqaaf526qweclgh5z0q8k3ghg"
+    },
+    {
+        "nickname": "Juliann",
+        "userid": 50196,
+        "total weight(metaforo)": 19933381,
+        "total weight(on chain, floored)": 19933381,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvms4223sumhv3ex7ucjk43mxec2453j0c9gdygh",
+        "address weight(floored)": 10864750,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvms4223sumhv3ex7ucjk43mxec2453j0c9gdygh"
+    },
+    {
+        "nickname": "Juliann",
+        "userid": 50196,
+        "total weight(metaforo)": 19933381,
+        "total weight(on chain, floored)": 19933381,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqtdg9qj32yqphe42a3700rf9le0lalr8pqlm5ymh",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqtdg9qj32yqphe42a3700rf9le0lalr8pqlm5ymh"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2nlqmnve6vzzqwmc9dnjvynd9e09sse2grwn7sw",
+        "address weight(floored)": 4200000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2nlqmnve6vzzqwmc9dnjvynd9e09sse2grwn7sw"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgxkjdncvqgw8hfqt78q8sewfj4asydsgceadv0k",
+        "address weight(floored)": 4160000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgxkjdncvqgw8hfqt78q8sewfj4asydsgceadv0k"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd28grvhrgvsnn3fqec8f7ap6fzqc74gsq6sdwcq",
+        "address weight(floored)": 4500000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd28grvhrgvsnn3fqec8f7ap6fzqc74gsq6sdwcq"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0tlc8uq7umetq0nq08aqxtgwrp22xa0jglzfasu",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq0tlc8uq7umetq0nq08aqxtgwrp22xa0jglzfasu"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdupej27yxwepx2peph9g2zdmwwq778slscy3lm5",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdupej27yxwepx2peph9g2zdmwwq778slscy3lm5"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd7g36dl9akqqeekrcp7auh33qt23cjk0swhpkjv",
+        "address weight(floored)": 4360000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd7g36dl9akqqeekrcp7auh33qt23cjk0swhpkjv"
+    },
+    {
+        "nickname": "Garie",
+        "userid": 50181,
+        "total weight(metaforo)": 17220000,
+        "total weight(on chain, floored)": 17220000,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqgqrp3lrrkcggt2x5rwspl67qewwg5g2hcpvtygs",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqgqrp3lrrkcggt2x5rwspl67qewwg5g2hcpvtygs"
+    },
+    {
+        "nickname": "Trust",
+        "userid": 50150,
+        "total weight(metaforo)": 228600,
+        "total weight(on chain, floored)": 228600,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfr46vvmhckcme29v9qppgf7xajztegncgqj4txz",
+        "address weight(floored)": 126600,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfr46vvmhckcme29v9qppgf7xajztegncgqj4txz"
+    },
+    {
+        "nickname": "Trust",
+        "userid": 50150,
+        "total weight(metaforo)": 228600,
+        "total weight(on chain, floored)": 228600,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf3etqp6ju7z58tyfnr4lghc5h30dk8k2qltwfvt",
+        "address weight(floored)": 102000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf3etqp6ju7z58tyfnr4lghc5h30dk8k2qltwfvt"
+    },
+    {
+        "nickname": "Trust",
+        "userid": 50150,
+        "total weight(metaforo)": 228600,
+        "total weight(on chain, floored)": 228600,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqde2mxgt5aff34drfzmjs9et5gl3atmn2s92psv9",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqde2mxgt5aff34drfzmjs9et5gl3atmn2s92psv9"
+    },
+    {
+        "nickname": "Tatum",
+        "userid": 40177,
+        "total weight(metaforo)": 1535998,
+        "total weight(on chain, floored)": 1535998,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfr4x2fmm67numw2thczkrz99sj0hyx28cphnr8f",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfr4x2fmm67numw2thczkrz99sj0hyx28cphnr8f"
+    },
+    {
+        "nickname": "Tatum",
+        "userid": 40177,
+        "total weight(metaforo)": 1535998,
+        "total weight(on chain, floored)": 1535998,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgd8w5zrcu3uzhlgpud3cvkx72zuzymv4cmjxwwl",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqgd8w5zrcu3uzhlgpud3cvkx72zuzymv4cmjxwwl"
+    },
+    {
+        "nickname": "Tatum",
+        "userid": 40177,
+        "total weight(metaforo)": 1535998,
+        "total weight(on chain, floored)": 1535998,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdsrru998t37xtjkux2cnx9lv8k0a7gjcg647p0q",
+        "address weight(floored)": 801999,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqdsrru998t37xtjkux2cnx9lv8k0a7gjcg647p0q"
+    },
+    {
+        "nickname": "Tatum",
+        "userid": 40177,
+        "total weight(metaforo)": 1535998,
+        "total weight(on chain, floored)": 1535998,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvm2yw3katq9y7jeunxwl7pyjjs406zl2gxul2j8",
+        "address weight(floored)": 133999,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvm2yw3katq9y7jeunxwl7pyjjs406zl2gxul2j8"
+    },
+    {
+        "nickname": "Tatum",
+        "userid": 40177,
+        "total weight(metaforo)": 1535998,
+        "total weight(on chain, floored)": 1535998,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw0g66sdjnc4zazwhlya9nsaaagndcgsrg269gvr",
+        "address weight(floored)": 600000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqw0g66sdjnc4zazwhlya9nsaaagndcgsrg269gvr"
+    },
+    {
+        "nickname": "Tatum",
+        "userid": 40177,
+        "total weight(metaforo)": 1535998,
+        "total weight(on chain, floored)": 1535998,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcq2qnh4ukv468jr9565r5p0a402lxyrqgrcu0dkvd",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcq2qnh4ukv468jr9565r5p0a402lxyrqgrcu0dkvd"
+    },
+    {
+        "nickname": "PSB",
+        "userid": 47706,
+        "total weight(metaforo)": 6094000,
+        "total weight(on chain, floored)": 6094000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfdk8n9sfzz758l93acg6s28z89wvehlxqkljnsv",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfdk8n9sfzz758l93acg6s28z89wvehlxqkljnsv"
+    },
+    {
+        "nickname": "PSB",
+        "userid": 47706,
+        "total weight(metaforo)": 6094000,
+        "total weight(on chain, floored)": 6094000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfs6c4chhw5kwthmq0jzqyxwmr9fpr5a4qr8l2yd",
+        "address weight(floored)": 6094000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqfs6c4chhw5kwthmq0jzqyxwmr9fpr5a4qr8l2yd"
+    },
+    {
+        "nickname": "PSB",
+        "userid": 47706,
+        "total weight(metaforo)": 6094000,
+        "total weight(on chain, floored)": 6094000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvsk2a6s3aq4kh6hves5a9vfswx88e2h0sg9uaga",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqvsk2a6s3aq4kh6hves5a9vfswx88e2h0sg9uaga"
+    },
+    {
+        "nickname": "ZZtovarishch",
+        "userid": 49172,
+        "total weight(metaforo)": 1000,
+        "total weight(on chain, floored)": 1000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf0uway3g9ghc5he9c3k5u2drkehnup4wspurfzh",
+        "address weight(floored)": 1000,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqf0uway3g9ghc5he9c3k5u2drkehnup4wspurfzh"
+    },
+    {
+        "nickname": "ZZtovarishch",
+        "userid": 49172,
+        "total weight(metaforo)": 1000,
+        "total weight(on chain, floored)": 1000,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2qn2tuptxte65j67mk30afawwsx07dt8c3ajstq",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2qn2tuptxte65j67mk30afawwsx07dt8c3ajstq"
+    },
+    {
+        "nickname": "ZZtovarishch",
+        "userid": 49172,
+        "total weight(metaforo)": 1000,
+        "total weight(on chain, floored)": 1000,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqdh0zkwe2tghhqajn5n44nxe4htr2h94ncqguvnj",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqdh0zkwe2tghhqajn5n44nxe4htr2h94ncqguvnj"
+    },
+    {
+        "nickname": "ebubedev",
+        "userid": 53125,
+        "total weight(metaforo)": 126864,
+        "total weight(on chain, floored)": 126864,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwfu4pvkjsxzxacs4q5jyl9gtymqhayd2s3ha8ru",
+        "address weight(floored)": 126864,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqwfu4pvkjsxzxacs4q5jyl9gtymqhayd2s3ha8ru"
+    },
+    {
+        "nickname": "mattRUNCKB",
+        "userid": 52112,
+        "total weight(metaforo)": 100001,
+        "total weight(on chain, floored)": 100001,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqglufwcjg3nhn8nzws0nmzupuhvs7e6uxgcuwzdg",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqglufwcjg3nhn8nzws0nmzupuhvs7e6uxgcuwzdg"
+    },
+    {
+        "nickname": "mattRUNCKB",
+        "userid": 52112,
+        "total weight(metaforo)": 100001,
+        "total weight(on chain, floored)": 100001,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqth3fm3g7zftkj4hwhyfs2zrfrzf2h27cswjs0ga",
+        "address weight(floored)": 100001,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqth3fm3g7zftkj4hwhyfs2zrfrzf2h27cswjs0ga"
+    },
+    {
+        "nickname": "Jnr6",
+        "userid": 51416,
+        "total weight(metaforo)": 194139,
+        "total weight(on chain, floored)": 194139,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqffue6z0es4f8lnlx52tpnwjwpuymf9qtqc9w05x",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqffue6z0es4f8lnlx52tpnwjwpuymf9qtqc9w05x"
+    },
+    {
+        "nickname": "Jnr6",
+        "userid": 51416,
+        "total weight(metaforo)": 194139,
+        "total weight(on chain, floored)": 194139,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd6nkrgkejdm7u08f8ghmavyxydzttan6gr3vran",
+        "address weight(floored)": 194139,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsqd6nkrgkejdm7u08f8ghmavyxydzttan6gr3vran"
+    },
+    {
+        "nickname": "truthixify",
+        "userid": 53508,
+        "total weight(metaforo)": 101885,
+        "total weight(on chain, floored)": 101885,
+        "address": "ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2jdp07vmgft5tpt7ds66up8t0jnedzwzgnz2ce9",
+        "address weight(floored)": 101885,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzda0cr08m85hc8jlnfp3zer7xulejywt49kt2rr0vthywaa50xwsq2jdp07vmgft5tpt7ds66up8t0jnedzwzgnz2ce9"
+    },
+    {
+        "nickname": "truthixify",
+        "userid": 53508,
+        "total weight(metaforo)": 101885,
+        "total weight(on chain, floored)": 101885,
+        "address": "ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqtlp685smr3ezf6duf5vhscfdqs7wjgzfs7whcdj",
+        "address weight(floored)": 0,
+        "⚠️need_review": false,
+        "explorer_url": "https://explorer.app5.org/address/ckb1qzl58smqy32hnrq6vxjedcxe2fugvnz497h7yvwqvwel40uh4rltcqtlp685smr3ezf6duf5vhscfdqs7wjgzfs7whcdj"
+    }
+]
